@@ -183,7 +183,7 @@ A Flutter Android app for local network security visibility — Wi-Fi scanning, 
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ [DishLens <Private Repo> ](https://github.com/Haseeb243/DishLens-See-It-Before-You-Taste-It)
+### 🍽️ [DishLens (Private Repo) ](https://github.com/Haseeb243/DishLens-See-It-Before-You-Taste-It)
 **3D / AR Restaurant Menu SaaS**
 
 A multi-tenant SaaS platform helping restaurants present QR menus with interactive 3D dish previews and AR table placement.
