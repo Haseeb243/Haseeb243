@@ -320,16 +320,39 @@ Sept 2022 – June 2026
 <div align="center">
 
 <a href="https://github.com/Haseeb243">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haseeb243&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true" height="180" alt="Haseeb243 GitHub stats" />
-</a>
-<a href="https://github.com/Haseeb243">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb243&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=10" height="180" alt="Haseeb243 top languages" />
+  <img src="https://raw.githubusercontent.com/Haseeb243/Haseeb243/main/metrics/metrics.svg" width="95%" alt="Haseeb243 GitHub metrics overview" />
 </a>
 
-<br />
+<br /><br />
 
 <a href="https://github.com/Haseeb243">
   <img src="https://streak-stats.demolab.com?user=Haseeb243&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" width="58%" alt="Haseeb243 GitHub streak" />
+</a>
+
+</div>
+
+### 💻 Terminal Snapshot &amp; Habits
+
+<div align="center">
+
+<a href="https://github.com/Haseeb243">
+  <img src="https://raw.githubusercontent.com/Haseeb243/Haseeb243/main/metrics/metrics.terminal.svg" width="95%" alt="Haseeb243 terminal-style metrics" />
+</a>
+
+<br /><br />
+
+<a href="https://github.com/Haseeb243">
+  <img src="https://raw.githubusercontent.com/Haseeb243/Haseeb243/main/metrics/metrics.habits.svg" width="95%" alt="Haseeb243 coding habits" />
+</a>
+
+</div>
+
+### 🏅 Achievements
+
+<div align="center">
+
+<a href="https://github.com/Haseeb243">
+  <img src="https://raw.githubusercontent.com/Haseeb243/Haseeb243/main/metrics/metrics.achievements.svg" width="95%" alt="Haseeb243 GitHub achievements" />
 </a>
 
 </div>
