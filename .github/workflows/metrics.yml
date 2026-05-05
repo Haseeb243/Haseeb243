@@ -11,15 +11,17 @@ on:
 permissions:
   contents: write
 
-jobs:
-  metrics:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+# Each metrics card runs in its own job with its own 20-minute budget so a slow
+# plugin can never starve the others. Jobs are chained with `needs:` so the
+# committer steps push to main one at a time and never collide on the same file.
 
+jobs:
+  overview:
+    name: Overview metrics
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      # Main metrics card with overview stats, isocalendar and language usage.
-      - name: Main metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: Haseeb243
@@ -30,14 +32,18 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss, sass
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_indepth: yes
-          plugin_languages_categories: markup, programming
+          plugin_languages_details: percentage
           plugin_languages_limit: 8
+          retries: 2
+          retries_delay: 30
 
-      # Terminal-style introduction card.
-      - name: Terminal metrics
-        uses: lowlighter/metrics@latest
+  terminal:
+    name: Terminal metrics
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    needs: overview
+    steps:
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: Haseeb243
@@ -47,14 +53,19 @@ jobs:
           config_timezone: Asia/Karachi
           plugin_introduction: yes
           plugin_introduction_title: yes
-          plugin_lines: yes
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_limit: 12
+          retries: 2
+          retries_delay: 30
 
-      # Habits / productive time card.
-      - name: Habits metrics
-        uses: lowlighter/metrics@latest
+  habits:
+    name: Habits metrics
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    needs: terminal
+    steps:
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: Haseeb243
@@ -66,10 +77,16 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
+          retries: 2
+          retries_delay: 30
 
-      # Achievements showcase card.
-      - name: Achievements metrics
-        uses: lowlighter/metrics@latest
+  achievements:
+    name: Achievements metrics
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    needs: habits
+    steps:
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: Haseeb243
@@ -80,3 +97,5 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
           plugin_achievements_limit: 0
+          retries: 2
+          retries_delay: 30
