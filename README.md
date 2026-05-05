@@ -331,28 +331,12 @@ Sept 2022 – June 2026
 
 </div>
 
-### 💻 Terminal Snapshot &amp; Habits
+### 💻 Terminal Snapshot
 
 <div align="center">
 
 <a href="https://github.com/Haseeb243">
   <img src="https://raw.githubusercontent.com/Haseeb243/Haseeb243/main/metrics/metrics.terminal.svg" width="95%" alt="Haseeb243 terminal-style metrics" />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/Haseeb243">
-  <img src="https://raw.githubusercontent.com/Haseeb243/Haseeb243/main/metrics/metrics.habits.svg" width="95%" alt="Haseeb243 coding habits" />
-</a>
-
-</div>
-
-### 🏅 Achievements
-
-<div align="center">
-
-<a href="https://github.com/Haseeb243">
-  <img src="https://raw.githubusercontent.com/Haseeb243/Haseeb243/main/metrics/metrics.achievements.svg" width="95%" alt="Haseeb243 GitHub achievements" />
 </a>
 
 </div>
