@@ -183,7 +183,7 @@ A Flutter Android app for local network security visibility — Wi-Fi scanning, 
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ [DishLens (Private Repo) ](https://github.com/Haseeb243/DishLens-See-It-Before-You-Taste-It)
+### 🍽️ [DishLens (Private Repo) ]
 **3D / AR Restaurant Menu SaaS**
 
 A multi-tenant SaaS platform helping restaurants present QR menus with interactive 3D dish previews and AR table placement.
@@ -199,7 +199,7 @@ A multi-tenant SaaS platform helping restaurants present QR menus with interacti
 </td>
 <td width="50%" valign="top">
 
-### 📻 [WalkieTalk <Private Repo>](https://github.com/Haseeb243/walkieTalk)
+### 📻 [WalkieTalk (Private Repo)]
 **Real-Time Push-to-Talk Mobile App**
 
 A walkie-talkie-style Flutter app using Firebase and WebRTC for low-latency peer-to-peer audio communication.
@@ -224,7 +224,7 @@ A walkie-talkie-style Flutter app using Firebase and WebRTC for low-latency peer
 
 | Project | What it does | Stack / Focus |
 |---|---|---|
-| [Service Marketplace App <Private Repo> ](https://github.com/Haseeb243/service_marketplace_app) | Cross-platform marketplace connecting customers with verified local service providers for electrical, cleaning, plumbing, carpentry, and other jobs. | Flutter · Supabase · PostgreSQL · Auth · Realtime · RLS |
+| [Service Marketplace App (Private Repo) ] | Cross-platform marketplace connecting customers with verified local service providers for electrical, cleaning, plumbing, carpentry, and other jobs. | Flutter · Supabase · PostgreSQL · Auth · Realtime · RLS |
 | [Online Food Delivery System](https://github.com/Haseeb243/labmid) | Multi-tenant food-delivery SaaS with JWT auth, Google OAuth, tenant isolation, Kafka event streaming, Redis caching, Socket.IO updates, and live metrics. | Node.js · Express · MongoDB · Redis · Kafka · Socket.IO · Next.js · Docker |
 | [Hogwart Bookstore](https://github.com/Haseeb243/Hogwart-Bookstore) | MERN bookstore with Hogwarts-themed UI, book browsing, details, admin add-book, signup/login, contact, newsletter, and checkout capture. | React · Vite · Tailwind · DaisyUI · Express · MongoDB · Mongoose |
 | [Book Store · Cloud Edition](https://github.com/Haseeb243/book) | Bookstore refactor with Sequelize, SQLite local development, and AWS deployment guides for RDS, S3, Elastic Beanstalk, EC2, Nginx, and PM2. | React · Vite · Express · Sequelize · SQLite · AWS RDS · S3 · Elastic Beanstalk |
