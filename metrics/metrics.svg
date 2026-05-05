@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="220" viewBox="0 0 780 220" role="img" aria-label="Haseeb243 GitHub metrics — generating">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="220" rx="14" fill="url(#bg)"/>
+  <rect x="0" y="0" width="780" height="3" fill="url(#accent)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#C9D1D9">
+    <text x="32" y="60" font-size="20" font-weight="700" fill="#38BDF8">Haseeb243 — GitHub metrics</text>
+    <text x="32" y="92" font-size="14">Generating metrics&#8230; the schedule workflow will populate this card</text>
+    <text x="32" y="112" font-size="14">on the next run (or you can trigger it manually from Actions).</text>
+    <text x="32" y="156" font-size="13" fill="#7C3AED">.github/workflows/metrics.yml</text>
+    <text x="32" y="180" font-size="12" fill="#8B949E">Once it runs, this SVG is replaced with your live activity, languages,</text>
+    <text x="32" y="198" font-size="12" fill="#8B949E">isocalendar, and repository stats.</text>
+  </g>
+</svg>
