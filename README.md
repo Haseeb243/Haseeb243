@@ -18,7 +18,7 @@
 
 <a href="mailto:haseebahmad140279@gmail.com"><img src="https://img.shields.io/badge/Email-haseebahmad140279%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/Haseeb243"><img src="https://img.shields.io/badge/GitHub-Haseeb243-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/haseeb243"><img src="https://img.shields.io/badge/LinkedIn-Haseeb243-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/haseeb-ahmad-khalil-00683630a"><img src="https://img.shields.io/badge/LinkedIn-Haseeb243-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br />
 
@@ -68,7 +68,7 @@ I am a Computer Science student with hands-on experience across **full-stack web
   </tr>
   <tr>
     <td><b>🛡️ Security</b></td>
-    <td>Certified Ethical Hacker · ISO/IEC 27001 Associate · CCNA Networking</td>
+    <td>Certified Ethical Hacker  · CCNA Networking</td>
   </tr>
   <tr>
     <td><b>🚀 Core Strengths</b></td>
@@ -98,7 +98,7 @@ I am a Computer Science student with hands-on experience across **full-stack web
 <a href="#top"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,mysql,sqlite,redis,kafka,firebase,prisma,socketio&perline=12" alt="Backend, data and real-time" /></a>
 
 ### Blockchain, Cloud &amp; DevOps
-<a href="#top"><img src="https://skillicons.dev/icons?i=ethereum,solidity,hardhat,docker,kubernetes,aws,jenkins,prometheus,grafana,nginx,linux,bash&perline=12" alt="Blockchain, cloud and DevOps" /></a>
+<a href="#top"><img src="https://skillicons.dev/icons?i=ethereum,docker,kubernetes,aws,jenkins,prometheus,grafana,nginx,linux,bash&perline=12" alt="Blockchain, cloud and DevOps" /></a>
 
 ### Tools &amp; Workflow
 <a href="#top"><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman,figma,vercel,supabase&perline=10" alt="Tools and workflow" /></a>
@@ -183,7 +183,7 @@ A Flutter Android app for local network security visibility — Wi-Fi scanning, 
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ [DishLens](https://github.com/Haseeb243/DishLens-See-It-Before-You-Taste-It)
+### 🍽️ [DishLens <Private Repo> ](https://github.com/Haseeb243/DishLens-See-It-Before-You-Taste-It)
 **3D / AR Restaurant Menu SaaS**
 
 A multi-tenant SaaS platform helping restaurants present QR menus with interactive 3D dish previews and AR table placement.
@@ -199,7 +199,7 @@ A multi-tenant SaaS platform helping restaurants present QR menus with interacti
 </td>
 <td width="50%" valign="top">
 
-### 📻 [WalkieTalk](https://github.com/Haseeb243/walkieTalk)
+### 📻 [WalkieTalk <Private Repo>](https://github.com/Haseeb243/walkieTalk)
 **Real-Time Push-to-Talk Mobile App**
 
 A walkie-talkie-style Flutter app using Firebase and WebRTC for low-latency peer-to-peer audio communication.
@@ -224,7 +224,7 @@ A walkie-talkie-style Flutter app using Firebase and WebRTC for low-latency peer
 
 | Project | What it does | Stack / Focus |
 |---|---|---|
-| [Service Marketplace App](https://github.com/Haseeb243/service_marketplace_app) | Cross-platform marketplace connecting customers with verified local service providers for electrical, cleaning, plumbing, carpentry, and other jobs. | Flutter · Supabase · PostgreSQL · Auth · Realtime · RLS |
+| [Service Marketplace App <Private Repo> ](https://github.com/Haseeb243/service_marketplace_app) | Cross-platform marketplace connecting customers with verified local service providers for electrical, cleaning, plumbing, carpentry, and other jobs. | Flutter · Supabase · PostgreSQL · Auth · Realtime · RLS |
 | [Online Food Delivery System](https://github.com/Haseeb243/labmid) | Multi-tenant food-delivery SaaS with JWT auth, Google OAuth, tenant isolation, Kafka event streaming, Redis caching, Socket.IO updates, and live metrics. | Node.js · Express · MongoDB · Redis · Kafka · Socket.IO · Next.js · Docker |
 | [Hogwart Bookstore](https://github.com/Haseeb243/Hogwart-Bookstore) | MERN bookstore with Hogwarts-themed UI, book browsing, details, admin add-book, signup/login, contact, newsletter, and checkout capture. | React · Vite · Tailwind · DaisyUI · Express · MongoDB · Mongoose |
 | [Book Store · Cloud Edition](https://github.com/Haseeb243/book) | Bookstore refactor with Sequelize, SQLite local development, and AWS deployment guides for RDS, S3, Elastic Beanstalk, EC2, Nginx, and PM2. | React · Vite · Express · Sequelize · SQLite · AWS RDS · S3 · Elastic Beanstalk |
@@ -303,7 +303,6 @@ Sept 2022 – June 2026
 
 ### Certifications
 - Certified Ethical Hacker (CEH)
-- ISO/IEC 27001:2022 Information Security Associate
 - CCNA: Introduction to Networking &amp; Switching, Routing, and Wireless Essentials
 - Foundations of Business and Entrepreneurship
 
@@ -425,7 +424,7 @@ I am open to **internships**, **junior developer roles**, and collaboration on s
 
 <a href="mailto:haseebahmad140279@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
 <a href="https://github.com/Haseeb243"><img src="https://img.shields.io/badge/View_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub" /></a>
-<a href="https://www.linkedin.com/in/haseeb243"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/haseeb-ahmad-khalil-00683630a"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
 <br /><br />
 
