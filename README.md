@@ -8,10 +8,10 @@
 <!-- =================== HEADER =================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,40:0EA5E9,100:7C3AED&height=240&section=header&text=Haseeb%20Ahmad%20Khalil&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=CEH%20Certified%20%7C%20Full-Stack%20%7C%20Flutter%20%7C%20Blockchain%20%7C%20DevOps&descAlignY=58&descSize=18" width="100%" alt="Haseeb Ahmad Khalil portfolio banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,40:0EA5E9,100:7C3AED&height=240&section=header&text=Haseeb%20Ahmad%20Khalil&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20%7C%20Flutter%20%7C%20Blockchain%20%7C%20DevOps%20%7C%20CEH%20Certified&descAlignY=58&descSize=18" width="100%" alt="Haseeb Ahmad Khalil portfolio banner" />
 
 <a href="https://github.com/Haseeb243">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%40+COMSATS+Islamabad;Building+secure+full-stack+%26+mobile+products;Web3%2C+AI%2C+DevOps+%26+cybersecurity+enthusiast;Final+Year+Project%3A+DeTrust+%E2%80%94+a+decentralized+trust+system" alt="Animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+secure+full-stack+%26+mobile+products;Web3%2C+AI%2C+DevOps+%26+cybersecurity+enthusiast;Final+Year+Project%3A+DeTrust+%E2%80%94+a+decentralized+trust+system" alt="Animated tagline" />
 </a>
 
 <br />
@@ -49,7 +49,7 @@ const haseeb = {
 };
 ```
 
-I am a Computer Science student with hands-on experience across **full-stack web development**, **Flutter mobile apps**, **blockchain applications**, **networking**, **cybersecurity**, and **DevOps**. My work blends product thinking with practical engineering: from real-time healthcare microservices and blockchain product authentication to Wi-Fi security tooling and AR restaurant menus.
+I have hands-on experience across **full-stack web development**, **Flutter mobile apps**, **blockchain applications**, **networking**, **cybersecurity**, and **DevOps**. My work blends product thinking with practical engineering: from real-time healthcare microservices and blockchain product authentication to Wi-Fi security tooling and AR restaurant menus.
 
 <br />
 
